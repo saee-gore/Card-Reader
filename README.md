@@ -21,8 +21,7 @@ Built with: Visual Studio
 
 Languages: C#
 
-Author
-Saee Gore
+Author: Saee Gore
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
