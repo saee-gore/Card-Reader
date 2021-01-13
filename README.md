@@ -3,10 +3,6 @@
  - This is a mini-project that generates notepad files storing the card details when user swipes a card in the machine.
  - It's built with C#. NET in Visual Studio.
 
-- Built with: Visual Studio 
-
-- Languages: C#
-
 - Getting Started
   - These instructions will give you a brief idea about how to implement this piece of code.
 
