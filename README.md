@@ -4,7 +4,6 @@
  - It's built with C#. NET in Visual Studio.
 
 - Getting Started
-  - These instructions will give you a brief idea about how to implement this piece of code.
 
     1. Install Visual Studio 2019
     2. Clone the entire project directory from GitHub using the command git clone  account 
