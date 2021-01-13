@@ -1,7 +1,11 @@
 # Card Reader
 
-## This is a mini-project that generates notepad files storing the card details when user swipes a card in the machine.
-This project generates files on a daily basis and updates the file data accordingly. It's built with C#. NET in Visual Studio.
+ - This is a mini-project that generates notepad files storing the card details when user swipes a card in the machine.
+ - It's built with C#. NET in Visual Studio.
+
+- Built with: Visual Studio 
+
+- Languages: C#
 
 - Getting Started
   - These instructions will give you a brief idea about how to implement this piece of code.
@@ -12,8 +16,4 @@ This project generates files on a daily basis and updates the file data accordin
     4. Paste the code and run the project
     5. Swipe any card in the machine and then the data will be stored in a notepad file under a directory in your C drive.
 
-- Built with: Visual Studio 
-
-- Languages: C#
-
-** Programmer: Saee A. Gore **
+**Programmer: Saee A. Gore**
